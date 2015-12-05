@@ -1,4 +1,4 @@
-This project is split into 4 components:  
+This project is split into 5 components:  
 1. Calculation of sentiment scores with Naive Bayes model  
 2. K-means to show similarity in reviews but difference in ratings
 3. Calculation of sentiment scores with VaderSentiment library  
